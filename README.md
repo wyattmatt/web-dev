@@ -24,7 +24,7 @@ web-dev/
 ├── beasiswa.php       # MhsBeasiswa (Scholarship Student) class
 ├── kelas.php          # Kelas (Class/Classroom) class
 ├── README.md          # Project documentation
-└── LICENSE           # MIT License
+└── LICENSE            # MIT License
 ```
 
 ## 🏗️ Class Architecture
@@ -168,8 +168,3 @@ Jenis Beasiswa: Ruby
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Author**: Wyatt Matthew  
-**Created**: 2025
