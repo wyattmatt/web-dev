@@ -2,19 +2,6 @@
 
 A PHP-based student management system demonstrating object-oriented programming concepts including inheritance, encapsulation, and composition.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Class Architecture](#class-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Classes Documentation](#classes-documentation)
-- [Examples](#examples)
-- [Requirements](#requirements)
-- [License](#license)
-
 ## 🎯 Overview
 
 This project implements a student management system using PHP's object-oriented programming features. It manages student information, scholarship recipients, and classroom assignments through a well-structured class hierarchy.
